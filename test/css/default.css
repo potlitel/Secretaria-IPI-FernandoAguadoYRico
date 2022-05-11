@@ -1,0 +1,13 @@
+@charset "utf-8";
+/*Estilo por etiqueta*/
+body {
+	margin: 0px;
+}
+/*Estilo por ID*/
+#banner {
+	width:1000px;
+	position:relative;
+	height:225px;
+	margin:0px;
+}
+/*Estilo por clase*/

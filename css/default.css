@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+body {
+	background-color: #CCCCCC;
+}
+a {
+	text-decoration: none;
+	font-weight:bold;
+}
+a:hover {
+	text-decoration:none;
+	font-weight:bold;
+}
+
+
+
+#banner {
+	width:950px;
+	height:100px;
+	background-color:#003399;
+	border-radius: 5px;
+}
+
+#menu {
+	background-color:#0099FF;
+}
+#menu a {
+	color:#003399;
+}
+#menu a:hover {
+	color:#00CCFF;
+}
+
+#Fecha_Reloj {
+	color:#000066;
+	font-weight:bold;
+	text-align:right;
+}
+
+#search_field {
+	border-radius: 5px;
+	background-color:#00FFFF;
+}
+
+	
+
+#work_area {
+	background-color:#0099FF;
+}
+#foot {
+	background-color: #FF6600;
+	border-radius:5px;
+}
+#foto {
+	width:128px;
+	height:128px;	
+}
+#info{
+	background-color:#00CCFF;
+}
+
+
+.label {	
+	color:#000066;	
+}
+.text {	
+	background-color:#FFFFFF;	
+}
+
+.tabla {
+	background-color:#00CCFF;
+}
+.tabla #principal{
+	background-color:#999999;	
+}
+.tabla #section{
+	background-color:#000033;
+	line-height:32px;
+	color:#00CCFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+.tabla #foto_borde{
+	background-color:#FFFFFF;
+}
+.tabla #tag{
+	background-color:#0033CC;
+	color:#00FFFF;
+	text-align:center;
+}
+.tabla #field {
+	background-color:#00CCFF;
+	color:#000066;
+	text-align:center;
+}
+.tabla #boton{
+	border-style:double;
+	border-color:#000099;
+}
+.tabla#login{
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+.tabla #titulo{	
+	font-size:36px;
+	color:#000066;
+}

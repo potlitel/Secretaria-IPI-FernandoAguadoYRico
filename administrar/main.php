@@ -1,0 +1,4 @@
+<?
+	acceso_denegado();
+	Hola
+?>

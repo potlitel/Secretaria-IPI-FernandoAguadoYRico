@@ -1,0 +1,88 @@
+#footer
+{
+	border-top:1px solid #fff;
+	background-color:#8e5434 !important;
+	height:230px;
+	/*padding:25px;*/
+	font-size:12px
+}
+
+#footer h3
+{	
+	font-family: Adobe Caslon Pro, Hoefler Text, Georgia, Garamond, Times, serif;
+	letter-spacing: 0.1em;
+	text-align: justify;
+	line-height: 145%;
+	font-size:17px !important;
+	font-weight:600;
+	margin-bottom:7px;
+	margin-top: 40px;
+	border-bottom:1px solid #ccc !important;
+	color:#fafafa !important
+}
+
+#footer p
+{
+	color:#fafafa !important;
+	font-family: Adobe Caslon Pro, Hoefler Text, Georgia, Garamond, Times, serif;
+	letter-spacing: 0.1em;
+	text-align: justify;
+	margin: 15px auto;
+	line-height: 145%;
+	font-size: 16px;
+}
+
+#footer ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	color:#ccc !important
+}
+
+#footer li
+{
+	line-height:20px;
+	font-size:8px;
+	color:#ccc !important 
+}
+
+#footer ul li a
+{
+	color:#fafafa !important 
+}
+
+#footer ul li a:hover
+{
+	color:#fafafa !important;text-decoration:underline
+}
+#footer p a
+{
+	color:#fafafa !important;
+	font-family: Adobe Caslon Pro, Hoefler Text, Georgia, Garamond, Times, serif;
+	letter-spacing: 0.1em;
+	text-align: justify;
+	margin: 15px auto;
+	line-height: 145%;
+	font-size: 16px;
+}
+
+#footer p a:hover
+{
+	color:#fafafa !important;
+	text-decoration:underline
+}
+
+.row{margin-left:17px;*zoom:1}.row:before,.row:after{display:table;content:"";line-height:0}.row:after{clear:both}[class*="span"]{float:left;min-height:1px;margin-left:20px}
+
+.container{width:940px}
+
+.container{margin-right:auto;margin-left:auto;*zoom:1}.container:before,.container:after{display:table;content:"";line-height:0}.container:after{clear:both}
+
+.container{width:auto}
+
+.span2{width:140px}
+
+.span4{width:300px;height:203px}
+
+.span6{width:460px;height:203px}
